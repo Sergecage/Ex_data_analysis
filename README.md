@@ -10,3 +10,9 @@ In this project I have to answer on the next questions:
 6.  Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == “06037”). Which city has seen greater changes over time in motor vehicle emissions?
 
 The following questions and tasks in exploratory analysis is addressed. For each question / task a single plot is made.
+1.The total emissions have decreased in the US from 1999 to 2008 according to plot 1
+2.Overall total emissions have decreased in Baltimore City, Maryland since 1999 to 2008.(according to plot 2)
+3.The point  increased from 1999-2008. 
+4. Emissions from coal combustion related sources have decreased in 1999-2008.
+5. Emissions in Baltimore City from motor vehicle sources have dropped in1999-2008
+6.The greatest changes over time in motor vehicle emissions being pointed out in Los Angeles County.
